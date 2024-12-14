@@ -31,7 +31,9 @@ public class SumOfNum {
 		temp=a[i];
 		
 		}
-		
+	
+		System.out.println("array of numbers");
+		System.out.println("QA work");
 		
 	}
 

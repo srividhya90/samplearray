@@ -16,23 +16,25 @@ public class SumOfNum {
 		int sum=0;
 		int avg=0;
 		int temp=0;
-		
+
 		for(int i=0;i<10;i++)
 		{
 			sum=sum+a[i];
 		}
-		
+
 		System.out.println("Sum is:"+sum);
 		avg=sum/10;
 		System.out.println("average is:"+avg);
-		
+
 		for(int i=0;i<0;i++)
 		{
-		temp=a[i];
-		
+			temp=a[i];
+
 		}
-		
-	
+
+		System.out.println("array of numbers");
+		System.out.println("QA work");
+
 		System.out.println("Production work");
 	}
 

@@ -32,7 +32,8 @@ public class SumOfNum {
 		
 		}
 		
-		
+	
+		System.out.println("Production work");
 	}
 
 }
